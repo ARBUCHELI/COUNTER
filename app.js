@@ -14,10 +14,10 @@ btns.forEach(function (btn) {
     }
 
     if (count > 0) {
-      value.style.color = "green";
+      value.style.color = "	yellowgreen";
     }
     if (count < 0) {
-      value.style.color = "red";
+      value.style.color = "	#FF4500";
     }
     if (count === 0) {
       value.style.color = "#222";
