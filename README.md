@@ -19,6 +19,10 @@ The App has two options NAME and HEX.
 
 ## DECREASE
 
+![decrease](https://raw.githubusercontent.com/ARBUCHELI/COUNTER/master/decrease1.jpg)
+![decrease](https://raw.githubusercontent.com/ARBUCHELI/COUNTER/master/decrease2.jpg)
+![decrease](https://raw.githubusercontent.com/ARBUCHELI/COUNTER/master/decrease3.jpg)
+
 ## RESET
 
 
