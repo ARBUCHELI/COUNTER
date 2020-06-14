@@ -13,6 +13,9 @@ The App has two options NAME and HEX.
 
 ## INCREASE
 
+![increase](https://raw.githubusercontent.com/ARBUCHELI/COUNTER/master/increase1.jpg)
+![increase](https://raw.githubusercontent.com/ARBUCHELI/COUNTER/master/increase2.jpg)
+![increase](https://raw.githubusercontent.com/ARBUCHELI/COUNTER/master/increase3.jpg)
 
 ## DECREASE
 
